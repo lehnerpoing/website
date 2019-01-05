@@ -27,12 +27,12 @@ titel = "Gastzimmer"
 bild = "/uploads/2019/01/05/spielplatz.jpg"
 titel = "Spielplatz"
 [zimmer]
-bild = ""
-button_beschriftung = ""
+bild = "/uploads/2019/01/05/zimmer_vorschau.jpg"
+button_beschriftung = "Zu den Zimmern"
 button_link = ""
-content = ""
-hintergrundbild = ""
-titel = ""
-untertitel = ""
+content = "<p>Unsere Zimmer befinden sich momentan in der Umbauphase - in Kürze begrüssen wir Sie in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Wieder kommen lohnt sich!</p>"
+hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
+titel = "Zimmer"
+untertitel = "Einzelzimmer und Doppelzimmer"
 
 +++
