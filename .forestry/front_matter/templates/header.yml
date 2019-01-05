@@ -12,3 +12,5 @@ fields:
 - type: text
   name: telefon
   label: Telefon
+pages:
+- content/global/header.md
