@@ -1,0 +1,104 @@
+{{ define "main" }}
+<div id="home">
+  <ul id="slider">
+    {{ range $x,$img := .Params.slider }}
+    <li>
+      <img src="{{partial "imgUrl" (dict "img" .bild "params" "f_auto" )}} " />
+    </li>
+    {{end}}
+  </ul>
+  <div class="decoWrapper">
+    <div class="dleft"></div>
+    <div class="dright"></div>
+  </div>
+  <div class="ui fluid container intro">
+    <div class="ui container">
+      {{.Params.intro | safeHTML}}
+    </div>
+  </div>
+  <div class="ui container">
+    <h1>{{.Params.titel_content_oben}}</h1>
+    <div class="topcontent">
+      {{.Params.content_oben | safeHTML}}
+    </div>
+    <div class="ui three column grid doubling">
+      {{$p:=.}}
+      {{ range $x,$img := .Params.bereiche }}
+      <div class="ui column icons">
+        <a href="{{with .link}}{{relref $p $img.link }}{{end}}">
+          <img class="ui image centered" src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,w_300,f_auto" )}} " />
+          <h2>{{.titel}}</h2>
+          <div class="soon">{{.untertitel}}</div>
+        </a>
+      </div>
+
+      {{end}}
+    </div>
+    <div class="kk">
+
+    </div>
+  </div>
+  <div class="ui container kki fluid">
+    <div class="ui container kk">
+      <div class="ui grid stackable">
+        <div class="ui six wide column tablet computer only" style="background:url({{partial "imgUrl" (dict "img" .Params.daniela_kielkowski.bild_links "params" "c_scale,f_auto,w_800" )}}) left 1rem bottom no-repeat; background-size:contain;">
+
+        </div>
+        <div class="ui six wide mobile only column">
+          <img class="ui image fluid" src="{{partial "imgUrl" (dict "img" .Params.daniela_kielkowski.bild_links "params" "c_scale,f_auto,w_600" )}}" />
+        </div>
+        <div class="ui ten wide column content">
+          {{.Params.daniela_kielkowski.content | safeHTML}}
+          <img src="{{partial "imgUrl" (dict "img" .Params.daniela_kielkowski.unterschrift "params" "c_scale,w_200,f_auto" )}} " />
+          <div class="us">
+            {{.Params.daniela_kielkowski.unterschrift_text | safeHTML}}
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="deco"></div>
+  </div>
+  <div class="ui container fluid term" style="background:url({{partial "imgUrl" (dict "img" .Params.termin.hintergrundbild "params" "c_scale,f_auto,w_400" )}}) right -50px bottom no-repeat;">
+    <div class="ui container">
+      <div class="ui grid stackable">
+        <div class="ui ten wide column contentcol">
+          <h2>{{.Params.termin.titel}}</h2>
+          <!--
+          <div class="content">
+            {{.Params.termin.content | safeHTML}}
+          </div>
+          <a class="tbutton" href="https://www.jameda.de/berlin/aerzte/daniela-kielkowski/uebersicht/81100194_1/?utm_source=OTB-Button&utm_campaign=Kunden-Homepages"
+            target="_blank">
+            {{.Params.termin.buttonbeschriftung | safeHTML}}
+          </a>
+        -->
+          <script src="https://www.jameda.de/api/otb-widget/?refid=81100194_1" async></script>
+          <div id="jam-ota-info_81100194_1">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ui container fluid kontakt">
+    <div class="ui two column stackable grid mobile reversed">
+      <div class="ui column map">
+        <div class="ui 4:3 embed" data-url="https://www.openstreetmap.org/export/embed.html?bbox=13.28976631164551%2C52.48967943654932%2C13.336114883422853%2C52.51316523643532&amp;layer=mapnik&amp;marker=52.50142390483136%2C13.31294059753418"
+          data-placeholder="{{partial "imgUrl" (dict "img" .Params.kontakt.karte_bild "params" "c_scale,f_auto,w_1000" )}}"
+          data-icon="zoom in">
+        </div>
+      </div>
+      <div class="ui column content">
+        <h2>{{.Params.kontakt.titel}}</h2>
+        <div class="kcontent">
+          {{.Params.kontakt.content | safeHTML}}
+          <div class="decoWrapperR">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+{{ end }}
