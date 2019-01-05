@@ -120,3 +120,5 @@ fields:
         type: pages
         section: pages
     label: Button Link 2
+pages:
+- content/home.md
