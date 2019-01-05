@@ -16,7 +16,7 @@ bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poing</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
 [bilder]
 bilder = []
-button_beschriftung = ""
+button_beschriftung = "Alle Bilder sehen"
 button_link = ""
 [zimmer]
 bild = ""
