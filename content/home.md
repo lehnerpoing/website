@@ -1,8 +1,8 @@
 +++
 date = "2019-01-05T16:32:00+01:00"
-intro = ""
-titel = ""
-untertitel = ""
+intro = "<p>Unser Gasthof ist ruhig und idyllisch mitten im Grünen gelegen. In nur 15 Minuten sind Sie im Stadtzentrum Regensburgs. Unser familiengeführter Gasthof besteht mittlerweile in der 4. Generation. Unser neu gestalter gemütlicher Biergarten mit Beschattung und unser kleiner Abenteuerspielplatz lädt im Sommer zum verweilen ein. </p><p>Ganz bequem können Sie bei uns direkt im Hof parken. Traditionelle bayrische Gerichte und moderner Lifestyle ergänzen sich bei uns perfekt.</p>"
+titel = "Lehner"
+untertitel = "Gasthof, Zimmer und Biergarten"
 [aktuell]
 button_beschriftung_1 = ""
 button_beschriftung_2 = ""
@@ -12,8 +12,8 @@ content = ""
 titel = ""
 untertitel = ""
 [bild_teaser]
-bild = ""
-content = ""
+bild = "/uploads/2019/01/05/slide.png"
+content = "<p>Gasthof Lehner in Poing</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
 [bilder]
 bilder = []
 button_beschriftung = ""
