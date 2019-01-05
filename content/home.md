@@ -4,13 +4,16 @@ intro = "<p>Unser Gasthof ist ruhig und idyllisch mitten im Grünen gelegen. In 
 titel = "Lehner"
 untertitel = "Gasthof, Zimmer und Biergarten"
 [aktuell]
-button_beschriftung_1 = ""
-button_beschriftung_2 = ""
-button_link_1 = ""
+button_beschriftung_1 = "Tisch reservieren"
+button_beschriftung_2 = "Zur Speisekarte"
+button_link_1 = "mailto:lehner.poign@freenet.de?subject=Reservierung"
 button_link_2 = ""
 content = "<p>Sonntags bieten wir Ihnen hier besondere Spezialitäten - Hausgemacht und nach Großmutters Rezept, bitte denken Sie daran zu reservieren!</p>"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
+[[aktuell.gerichte]]
+datum = "(21. Oktober 2018)"
+gericht = "Rehrücken mit Knödel und Salat"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poing</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
