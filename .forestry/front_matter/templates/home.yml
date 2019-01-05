@@ -54,3 +54,36 @@ fields:
         type: pages
         section: pages
     label: Button Link
+- type: field_group
+  name: zimmer
+  label: Zimmer
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    name: untertitel
+    label: Untertitel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: button_beschriftung
+    label: Button Beschriftung
+  - type: select
+    name: button_link
+    config:
+      source:
+        type: pages
+        section: pages
+    label: Button Link
+  - type: file
+    name: bild
+    label: Bild
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
