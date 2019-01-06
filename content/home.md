@@ -1,6 +1,5 @@
 +++
 date = "2019-01-05T16:32:00+01:00"
-menu = "main"
 intro = "<p>Unser Gasthof ist ruhig und idyllisch mitten im Grünen gelegen. In nur 15 Minuten sind Sie im Stadtzentrum Regensburgs. Unser familiengeführter Gasthof besteht mittlerweile in der 4. Generation. Unser neu gestalter gemütlicher Biergarten mit Beschattung und unser kleiner Abenteuerspielplatz lädt im Sommer zum verweilen ein. </p><p>Ganz bequem können Sie bei uns direkt im Hof parken. Traditionelle bayrische Gerichte und moderner Lifestyle ergänzen sich bei uns perfekt.</p>"
 titel = "Lehner"
 untertitel = "Gasthof, Zimmer und Biergarten"
@@ -30,6 +29,9 @@ titel = "Gastzimmer"
 [[bilder.bilder]]
 bild = "/uploads/2019/01/05/spielplatz.jpg"
 titel = "Spielplatz"
+[menu.main]
+name = "Gasthof Lehner"
+weight = 1
 [zimmer]
 bild = "/uploads/2019/01/05/zimmer_vorschau.jpg"
 button_beschriftung = "Zu den Zimmern"
