@@ -18,6 +18,7 @@ fields:
   label: SEO Description
 pages:
 - content/räumlichkeiten.md
+- content/über-uns.md
 - content/veranstaltungen.md
 - content/zimmer.md
 - content/speisekarte.md
