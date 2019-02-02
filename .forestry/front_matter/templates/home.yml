@@ -130,5 +130,8 @@ fields:
         type: pages
         section: pages
     label: Button Link 2
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
 pages:
 - content/_index.md
