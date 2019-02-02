@@ -1,8 +1,29 @@
-{{ $t := .Site.GetPage "footer.md" }}
-<footer class="ui container fluid {{if .IsHome}}home{{end}}">
-  <div class="footermenu ui container">
-    {{ $currentPage := . }} {{ range .Site.Menus.footer }}
-    <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-    {{ end }}
+{{ $t := .Site.GetPage "footer-gasthof.md" }}
+<footer class=" {{if .IsHome}}home{{end}}">
+  <div id="logofooter">
+    <img src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+  </div>
+  <div class="ui container">
+    <div class="ui equal width grid stackable">
+      <div class="column">
+        <h5>{{$t.Params.footer_1.titel}}</h5>
+        {{$t.Params.footer_1.content|safeHTML}}
+      </div>
+      <div class="column">
+        <h5>{{$t.Params.footer_2.titel}}</h5>
+        {{$t.Params.footer_2.content|safeHTML}}
+      </div>
+      <div class="column">
+        <h5>{{$t.Params.footer_3.titel}}</h5>
+        <div class="footermenu">
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{end}}
+          {{ range .Site.Menus.footer }}
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
   </div>
 </footer>
