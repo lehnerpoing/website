@@ -50,3 +50,27 @@ fields:
   - type: file
     name: video
     label: Video
+- type: field_group
+  name: fuhrpark
+  label: Fuhrpark
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: field_group_list
+    name: maschinen
+    label: Maschinen
+    fields:
+    - type: text
+      name: titel
+      label: Titel
+    - type: text
+      name: untertitel
+      label: Untertitel
+    - type: textarea
+      name: beschreibung
+      label: Beschreibung
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
