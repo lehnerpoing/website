@@ -12,38 +12,47 @@ link = "mailto:lehner.andreas@freenet.de"
 titel = "Fuhrpark"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK signal, Aussaat mit Breitreifen</p>"
+bild = "/uploads/2019/02/04/zuckerrrueben.png"
 titel = "Zuckerrüben Aussaat"
 untertitel = "Vicon Unicorn syncho-drive"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>3 Meter Arbeitsbreite, Doppelscheibenschar, Kreisselegge mit Packerwalze, Mulchsaat-</p><p>einrichtung, Isobus gesteuer Spurführung über RTK-Signal, Aussaat mit Breitreifen, Frontkreisselegge oder Frontpacker verfügbar</p>"
+bild = "/uploads/2019/02/04/getreide_raps.png"
 titel = "Getreide-Raps Aussaat"
 untertitel = "Lemken Solitair 9 + Lemken Zirkon 9"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>Hydraulischer Antrieb, Wiegeeinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 4000 l Behältervolumen</p>"
+bild = "/uploads/2019/02/04/duengerstreuer.png"
 titel = "Düngerstreuer"
 untertitel = "Rauch Axis 50.1 HEMC"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>7 Meter Arbeitsbreite, Dreifachdüsenkörper, Deichsellenkung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 5000 l Behältervolumen</p>"
+bild = "/uploads/2019/02/04/pflanzenschutz.png"
 titel = "Pflanzenschutz-Spritze"
 untertitel = "Lemken Albatros 9/5000"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>5 Meter Arbeitsbreite, hydraulisch klappbar, Krummenpackerwalze, APV Zwischenfrucht-Streuer</p>"
+bild = "/uploads/2019/02/04/kreiselegge.png"
 titel = "Kreisselegge"
 untertitel = "Breviglieri Mekfold 220"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>6 Meter Arbeitsbreite, 4 Balkig, Aufgesattelt</p><p>Bis ca 18 cm Arbeitstiefe, Gänsefuß oder schmalschar, Spurführung über RTK-Signal</p>"
+bild = "/uploads/2019/02/04/grubber.png"
 titel = "Grubber"
 untertitel = "Köckerling Allrounder"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>4 Meter Arbeitsbreite,  3-balkig, bis ca 30 cm Arbeitstiefe, Flügel oder schmalschar,  </p><p>Spurführung über RTK-Signal</p>"
+bild = "/uploads/2019/02/04/grubber_lemken.png"
 titel = "Grubber"
 untertitel = "Lemken Karat 9"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>7-scharig, bis ca 35 cm Arbeitstiefe, Aufgesattelt, Streifenkörper</p>"
+bild = "/uploads/2019/02/04/pflug.png"
 titel = "Pflug"
 untertitel = "Lemken Diammant 11"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>2 Anhänger, 40 km/h Zulassung, Dreiseiten-Kipper, Planenaufbau</p>"
+bild = "/uploads/2019/02/04/anhaenger.png"
 titel = "Anhänger"
 untertitel = "Welger 18 Tonner"
 [[fuhrpark.maschinen]]
