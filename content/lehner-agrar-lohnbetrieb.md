@@ -57,10 +57,12 @@ titel = "Anhänger"
 untertitel = "Welger 18 Tonner"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>40 km/h Zulassung, 4 Tonnen Stützlast, Zwangslenkung, hydraulische Achsabstützung</p>"
+bild = "/uploads/2019/02/04/muldenkipper.png"
 titel = "Muldenkipper"
 untertitel = "Agroliner 24-Tonner"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>9 Meter Arbeitsbreite, Raupenlaufwerk, Ertragskartierung, Spurführung über RTK-Signal</p>"
+bild = "/uploads/2019/02/04/maehdrescher.png"
 titel = "Mähdrescher"
 untertitel = "Claas Lexion 600 TT"
 [menu.main]
