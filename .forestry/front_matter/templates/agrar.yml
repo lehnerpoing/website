@@ -74,3 +74,6 @@ fields:
         wysiwyg: true
         schema:
           format: html-blocks
+- type: file
+  name: titelbild
+  label: Titelbild
