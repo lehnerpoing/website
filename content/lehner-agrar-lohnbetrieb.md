@@ -11,6 +11,22 @@ link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
 titel = "Fuhrpark"
 [[fuhrpark.maschinen]]
+beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK signal, Aussaat mit Breitreifen</p>"
+titel = "Zuckerrüben Aussaat"
+untertitel = "Vicon Unicorn syncho-drive"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>3 Meter Arbeitsbreite, Doppelscheibenschar, Kreisselegge mit Packerwalze, Mulchsaat-</p><p>einrichtung, Isobus gesteuer Spurführung über RTK-Signal, Aussaat mit Breitreifen, Frontkreisselegge oder Frontpacker verfügbar</p>"
+titel = "Getreide-Raps Aussaat"
+untertitel = "Lemken Solitair 9 + Lemken Zirkon 9"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>Hydraulischer Antrieb, Wiegeeinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 4000 l Behältervolumen</p>"
+titel = "Düngerstreuer"
+untertitel = "Rauch Axis 50.1 HEMC"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>7 Meter Arbeitsbreite, Dreifachdüsenkörper, Deichsellenkung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 5000 l Behältervolumen</p>"
+titel = "Pflanzenschutz-Spritze"
+untertitel = "Lemken Albatros 9/5000"
+[[fuhrpark.maschinen]]
 beschreibung = "<p>5 Meter Arbeitsbreite, hydraulisch klappbar, Krummenpackerwalze, APV Zwischenfrucht-Streuer</p>"
 titel = "Kreisselegge"
 untertitel = "Breviglieri Mekfold 220"
