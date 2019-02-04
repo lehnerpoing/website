@@ -11,6 +11,22 @@ link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
 titel = "Fuhrpark"
 [[fuhrpark.maschinen]]
+beschreibung = "<p>5 Meter Arbeitsbreite, hydraulisch klappbar, Krummenpackerwalze, APV Zwischenfrucht-Streuer</p>"
+titel = "Kreisselegge"
+untertitel = "Breviglieri Mekfold 220"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>6 Meter Arbeitsbreite, 4 Balkig, Aufgesattelt</p><p>Bis ca 18 cm Arbeitstiefe, Gänsefuß oder schmalschar, Spurführung über RTK-Signal</p>"
+titel = "Grubber"
+untertitel = "Köckerling Allrounder"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>4 Meter Arbeitsbreite,  3-balkig, bis ca 30 cm Arbeitstiefe, Flügel oder schmalschar,  </p><p>Spurführung über RTK-Signal</p>"
+titel = "Grubber"
+untertitel = "Lemken Karat 9"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>7-scharig, bis ca 35 cm Arbeitstiefe, Aufgesattelt, Streifenkörper</p>"
+titel = "Pflug"
+untertitel = "Lemken Diammant 11"
+[[fuhrpark.maschinen]]
 beschreibung = "<p>2 Anhänger, 40 km/h Zulassung, Dreiseiten-Kipper, Planenaufbau</p>"
 titel = "Anhänger"
 untertitel = "Welger 18 Tonner"
