@@ -30,3 +30,23 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+- type: field_group
+  name: anfragen
+  label: Anfragen
+  fields:
+  - type: text
+    name: beschriftung
+    label: Beschriftung
+  - type: text
+    name: link
+    label: Link
+- type: field_group
+  name: video
+  label: Video
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: file
+    name: video
+    label: Video
