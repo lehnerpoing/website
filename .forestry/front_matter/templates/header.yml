@@ -12,5 +12,8 @@ fields:
 - type: text
   name: telefon
   label: Telefon
+- type: file
+  name: logo_agrar
+  label: Logo Agrar
 pages:
 - content/global/header.md
