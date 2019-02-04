@@ -3,18 +3,29 @@ content = "<p>Von der Bodenbearbeitung bis zur Ernte  –  flexible Einsatzzeite
 date = "2019-01-06T07:51:47+01:00"
 seo_description = ""
 titel = "Lohnbetrieb"
-titelbild = ""
+titelbild = "/uploads/2019/02/04/top-agrar.png"
 title = "Lehner Agrar - Lohnbetrieb"
 [anfragen]
-beschriftung = ""
-link = ""
+beschriftung = "Anfragen"
+link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
-maschinen = []
-titel = ""
+titel = "Fuhrpark"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>2 Anhänger, 40 km/h Zulassung, Dreiseiten-Kipper, Planenaufbau</p>"
+titel = "Anhänger"
+untertitel = "Welger 18 Tonner"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>40 km/h Zulassung, 4 Tonnen Stützlast, Zwangslenkung, hydraulische Achsabstützung</p>"
+titel = "Muldenkipper"
+untertitel = "Agroliner 24-Tonner"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>9 Meter Arbeitsbreite, Raupenlaufwerk, Ertragskartierung, Spurführung über RTK-Signal</p>"
+titel = "Mähdrescher"
+untertitel = "Claas Lexion 600 TT"
 [menu.main]
 weight = 8
 [video]
-titel = ""
+titel = "Video"
 video = ""
 [[leistungen]]
 icon = "/uploads/2019/02/04/icon_bodenbearbeitung.png"
