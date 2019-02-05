@@ -1,7 +1,7 @@
 +++
 content = "<p>Im Sommer sitzen Sie auf urigen Holzbänken in unserem Biergarten und genießen bayerische Schmankerl. Oder Sie lassen es sich in unserem Gastzimmer mit 45 Sitzplätzen im gemütlichen Ambiente schmecken. Für Geburtstage, Firmen- oder Familienfeiern, Hochzeiten oder andere Veranstaltungen steht Ihnen unser Nebenzimmer mit 75 Sitzplätzen zur Verfügung. Unsere KLEINEN GÄSTE werden bei uns ganz groß geschrieben! Aus der Kinderkarte können Sie spezielle Kindergerichte wählen, und während die Großen noch einen Kaffee trinken, können Sich die Kinder auf dem Spielplatz austoben - selbstverständlich erst nach dem Eis!</p>"
 date = "2019-01-06T07:49:26+01:00"
-layout="raeumlichkeiten"
+layout = "raeumlichkeiten"
 raeume_hintergrund = "/uploads/2019/02/05/background_räumlichkeiten.png"
 seo_description = ""
 titelbild = "/uploads/2019/02/05/räumlichkeiten_top.png"
@@ -13,6 +13,7 @@ weight = 2
 buttonbeschriftung = "Gleich reservieren"
 buttonlink = "mailto:lehner.poign@freenet.de?subject=Tischreservierung"
 content = "<p>Tischreservierung ganz bequem online - schreiben Sie uns einfach. </p><p>Aber bitte denken Sie daran, das der Tisch erst verbindlich reserviert ist, wenn Sie eine Bestätigung von uns erhalten.</p><p>Vielleicht war schon jemand schneller ...</p>"
+hintergrundbild = "/uploads/2019/02/05/reservieren.png"
 titel = "Reservierung"
 untertitel = "Ganz bequem online"
 [[raeume]]
