@@ -7,6 +7,7 @@
 @h2:rgb(43,22,13);
 @green:rgb(94,116,54);
 @green_dark:rgb(42,57,21);
+@green_dark_transp:rgba(94,116,54,0.9);
 @fontcolor:rgb(43,22,13);
 
 body{
@@ -33,6 +34,24 @@ h2{
 }
 a{
   color:@brown_light;
+}
+#rm{
+  h1{
+    color:@brown_light;
+    text-align:center;
+    @media (max-width: 768px){
+      font-size:6rem;
+    }
+  }
+  .intro{
+    text-align:center;
+    h1{
+      margin-bottom:0;
+    }
+    h2{
+      margin:-3rem 0 1rem 0;
+    }
+  }
 }
 #homea{
   h1{
@@ -212,6 +231,11 @@ header{
       opacity: 1;
       @media (max-width: 1280px){
         background:@brown_dark_transp;
+      }
+    }
+    &.agrar.mobvis{
+      @media (max-width: 1280px){
+        background:@green_dark_transp;
       }
     }
     @media (max-width: 1280px){

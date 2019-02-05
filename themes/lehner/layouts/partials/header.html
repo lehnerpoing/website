@@ -10,7 +10,7 @@
     </div>
   </a>
   <div id="headermenuw">
-    <div id="headermenu" class="mobinit">
+    <div id="headermenu" class="mobinit {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}agrar{{end}}">
       {{ range .Site.Menus.main }}
       <a class="headermenuitem {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
         href="{{ .URL }}" title="{{ .Title }}">{{ .Name|safeHTML }}</a>
