@@ -18,7 +18,6 @@ fields:
   label: SEO Description
 pages:
 - content/haftungsausschluss.md
-- content/über-uns.md
 - content/veranstaltungen.md
 - content/zimmer.md
 - content/speisekarte.md
