@@ -59,6 +59,9 @@ fields:
   - type: text
     name: buttonlink
     label: Buttonlink
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
 - type: file
   name: raeume_hintergrund
   label: Räume Hintergrund
