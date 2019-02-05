@@ -70,7 +70,7 @@ untertitel = "Claas Lexion 600 TT"
 weight = 8
 [video]
 titel = "Video"
-video = "<iframe src=\"https://player.vimeo.com/video/315396404\" width=\"100%\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+video = 315396404
 [[leistungen]]
 icon = "/uploads/2019/02/04/icon_bodenbearbeitung.png"
 titel = "Bodenbearbeitung"
