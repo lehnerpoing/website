@@ -47,7 +47,7 @@ fields:
   - type: text
     name: titel
     label: Titel
-  - type: file
+  - type: textarea
     name: video
     label: Video
 - type: field_group

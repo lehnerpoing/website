@@ -7,7 +7,7 @@ titel = "Lohnbetrieb"
 titelbild = "/uploads/2019/02/04/top-agrar.png"
 title = "Lehner Agrar - Lohnbetrieb"
 [anfragen]
-beschriftung = "Anfragen"
+beschriftung = "Jetzt Anfragen"
 link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
 titel = "Fuhrpark"
@@ -70,7 +70,7 @@ untertitel = "Claas Lexion 600 TT"
 weight = 8
 [video]
 titel = "Video"
-video = ""
+video = "<iframe src=\"https://player.vimeo.com/video/315396404\" width=\"100%\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
 [[leistungen]]
 icon = "/uploads/2019/02/04/icon_bodenbearbeitung.png"
 titel = "Bodenbearbeitung"
