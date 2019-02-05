@@ -47,9 +47,10 @@ fields:
   - type: text
     name: titel
     label: Titel
-  - type: textarea
-    name: video
+  - type: text
     label: Video
+    name: video
+    description: Vimeo-ID (nur die Zahl)
 - type: field_group
   name: fuhrpark
   label: Fuhrpark
