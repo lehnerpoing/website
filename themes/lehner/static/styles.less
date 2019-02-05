@@ -46,6 +46,18 @@ a{
     .colcont{
       background:@green_dark;
       height:100%;
+      .cont{
+        text-align:center;
+        color:white;
+        padding:1rem;
+        h3{
+          margin:0;
+        }
+        h4{
+          font-weight:normal;
+          margin:0 0 2rem 0;
+        }
+      }
     }
     .mimg{
       width:100%;
@@ -262,6 +274,21 @@ footer{
   }
   display:block;
   background:@brown_dark;
+  &.agrar{
+    background:@green;
+    .column{
+      border-right:1px solid white;
+      &:last-child{
+        border:none!important;
+      }
+      &.al{
+        text-align:center;
+      }
+    }
+    .footeralogo{
+      width:50%
+    }
+  }
   padding:5rem 0 2rem;
   color:white;
   .column{
