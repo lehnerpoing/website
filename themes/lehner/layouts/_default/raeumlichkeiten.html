@@ -24,6 +24,18 @@
         </div>
       </div> {{end}} </div>
   </div>
-  <div id="reserv" style="background:url({{partial "imgUrl" (dict "img" .Params.raeume_hintergrund "params" "" )}}) right bottom no-repeat rgba(112,66,49,0.1); background-size:50% auto;">
+  <div id="reserv" style="background:url({{partial "imgUrl" (dict "img" .Params.reservierung.hintergrundbild "params" "" )}}) right center no-repeat rgba(112,66,49,0.1); background-size:cover;">
+    <div class="ui container">
+      <h2>{{.Params.reservierung.titel}}</h2>
+      <h3>{{.Params.reservierung.untertitel}}</h3>
+      <div class="ui two column grid stackable">
+        <div class="column">
+          {{.Params.reservierung.content|safeHTML}}
+          <a class="lbutton" href="{{.Params.reservierung.buttonlink}}">
+            {{.Params.reservierung.buttonbeschriftung}}
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
 </div> {{ end }}
