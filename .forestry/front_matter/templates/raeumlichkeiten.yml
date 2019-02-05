@@ -59,5 +59,8 @@ fields:
   - type: text
     name: buttonlink
     label: Buttonlink
+- type: file
+  name: raeume_hintergrund
+  label: Räume Hintergrund
 pages:
 - content/räumlichkeiten.md
