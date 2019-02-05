@@ -8,11 +8,11 @@ untertitel = "Für jeden anlass das richtige"
 [menu.main]
 weight = 2
 [reservierung]
-buttonbeschriftung = ""
-buttonlink = ""
-content = ""
-titel = ""
-untertitel = ""
+buttonbeschriftung = "Gleich reservieren"
+buttonlink = "mailto:lehner.poign@freenet.de?subject=Tischreservierung"
+content = "<p>Tischreservierung ganz bequem online - schreiben Sie uns einfach. </p><p>Aber bitte denken Sie daran, das der Tisch erst verbindlich reserviert ist, wenn Sie eine Bestätigung von uns erhalten.</p><p>Vielleicht war schon jemand schneller ...</p>"
+titel = "Reservierung"
+untertitel = "Ganz bequem online"
 [[raeume]]
 beschreibung = "<p>Unser gemütlicher Biergarten mit Blick auf den Spielplatz bietet ca. 45 Gästen Platz, gerne können Sie auch hier einen Tisch reservieren oder für eine geschlossene Gesellschaft komplett buchen. An heißen Tagen beschatten wir Sonnensegel und Schirmen und einer kleinen Erholungspause steht nichts mehr im Wege.</p>"
 bild = "/uploads/2019/02/05/biergarten.png"
