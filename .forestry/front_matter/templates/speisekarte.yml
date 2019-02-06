@@ -20,3 +20,5 @@ fields:
   - type: file
     name: bild
     label: Bild
+pages:
+- content/speisekarte.md
