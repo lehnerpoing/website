@@ -20,8 +20,8 @@ fields:
     schema:
       format: html-blocks
 - type: text
-    name: karte
-    label: Karte
+  name: karte
+  label: Karte
 - type: field_group
   name: reservierung
   label: Reservierung
