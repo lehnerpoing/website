@@ -6,8 +6,9 @@
   <div class="ui container intro">
     <h1>{{.Params.titel}}</h1>
     <h2>{{.Params.untertitel}}</h2>
-    <div class="txt2">
-      {{.Params.content | safeHTML}}
+    <div class="ui two column grid stackable contv">
+      <div class="column">{{.Params.content_links|safeHTML}}</div>
+      <div class="column">{{.Params.content_rechts|safeHTML}}</div>
     </div>
   </div>
   <div class="ui container centered" style="display:flex;justify-content:center;">

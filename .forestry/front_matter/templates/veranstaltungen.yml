@@ -26,5 +26,15 @@ fields:
 - type: file
   name: titelbild
   label: Titelbild
+- type: field_group
+  name: bilder
+  label: Bilder
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: image_gallery
+    name: bilder
+    label: Bilder
 pages:
 - content/veranstaltungen.md
