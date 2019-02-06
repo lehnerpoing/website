@@ -7,7 +7,7 @@
     <h1>{{.Params.titel}}</h1>
     <h2>{{.Params.untertitel}}</h2>
   </div>
-  <div class="ui two column stackable grid mobile reversed">
+  <div class="ui two column stackable grid mobile reversed kt">
     <div class="ui column map">
       <div class="ui 4:3 embed" data-url="{{.Params.karte}}" data-icon="zoom in">
       </div>
@@ -15,6 +15,20 @@
     <div class="ui column content">
       <div class="kcontent">
         {{.Params.content | safeHTML}}
+      </div>
+    </div>
+  </div>
+  <div id="reserv" style="background:url({{partial "imgUrl" (dict "img" .Params.reservierung.hintergrundbild "params" "" )}}) right center no-repeat rgba(112,66,49,0.1); background-size:cover;">
+    <div class="ui container">
+      <h2>{{.Params.reservierung.titel}}</h2>
+      <h3>{{.Params.reservierung.untertitel}}</h3>
+      <div class="ui two column grid stackable">
+        <div class="column">
+          {{.Params.reservierung.content|safeHTML}}
+          <a class="lbutton" href="{{.Params.reservierung.buttonlink}}">
+            {{.Params.reservierung.buttonbeschriftung}}
+          </a>
+        </div>
       </div>
     </div>
   </div>
