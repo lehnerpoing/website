@@ -121,6 +121,10 @@ a {
 #ab .kt .column {
   padding: 0!important;
 }
+#ab .vaimgs {
+  background: rgba(112, 66, 49, 0.1);
+  padding-bottom: 2rem;
+}
 #ab #imgs {
   padding: 3rem 0;
 }
