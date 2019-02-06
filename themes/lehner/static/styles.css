@@ -674,6 +674,17 @@ footer .footermenu a {
   color: white!important;
   line-height: 1.5em;
 }
+.subpage {
+  padding: 0 0 4rem 0;
+}
+.subpage h1 {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .subpage h1 {
+    font-size: 5rem;
+  }
+}
 .lbuttona {
   box-shadow: none;
   border: none;
