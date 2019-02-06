@@ -28,7 +28,14 @@
       </div>
     </div>
   </div>
-  <div id="imgs">
-    <h2>{{}}</h2>
+  <div id="imgs" class="ui container">
+    <h2>{{.Params.bilder.titel}}</h2>
+    <div class="ui four column grid doubling">
+      {{range .Params.bilder.bilder}}
+      <div class="column">
+        <div class="galimg" style="background:url({{partial "imgUrl" (dict "img" . "params" "c_scale,f_auto,w_500" )}}) center center no-repeat; background-size:cover;"></div>
+      </div>
+      {{end}}
+    </div>
   </div>
 </div> {{ end }}
