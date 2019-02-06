@@ -48,3 +48,5 @@ fields:
   - type: file
     name: hintergrundbild
     label: Hintergrundbild
+pages:
+- content/kontakt.md
