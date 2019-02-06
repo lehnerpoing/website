@@ -1,6 +1,7 @@
 +++
 content = "<p>Gasthof Lehner<br>Talstraße 3<br>93080 Pentling / Poign<br>Tel: 09405 2408 <br>Fax: 09405 5009749<br>E-Mail: <a href=\"mailto:lehner.poign@freenet.de\" title=\"\">lehner.poign@freenet.de</a></p><p>Öffnungszeiten<br>Montag: \t\t\tRuhetag<br>Dienstag - Freitag: \t17:00 - 24:00 Uhr<br>Samstag: \t\t\t14:00 - 17:00 Uhr<br>(bei Voranmeldungen auch abends geöffnet)<br>Sonntag: \t\t\tganztägig geöffnet<br>\t\t\t\tab 11:00 Uhr Mittagstisch<br>\t\t\t\tFeiertage geschlossen</p>"
 date = "2019-01-06T07:50:55+01:00"
+karte = "https://www.openstreetmap.org/export/embed.html?bbox=12.096180617809297%2C48.92848409693223%2C12.099737226963045%2C48.930166981760955&amp;layer=mapnik"
 seo_description = ""
 titel = "Kemmt`s vorbei"
 titelbild = "/uploads/2019/02/06/kontakt_top.png"
