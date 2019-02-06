@@ -1,6 +1,7 @@
 +++
 date = "2019-01-06T07:50:34+01:00"
 seo_description = ""
+titelbild = "/uploads/2019/02/06/speisekarte_top.png"
 title = "Speisekarte"
 [menu.main]
 weight = 5
