@@ -13,7 +13,7 @@ bilder = ["/uploads/2019/02/05/nebenzimmer.png", "/uploads/2019/02/05/galerie000
 titel = "Bilder & mehr"
 [menu.main]
 name = "Über uns - Galerie"
-weight = 7
+weight = 6
 [[historie]]
 content = "<p>stand ein landwirtschaftlicher Betrieb mit 10 Kühen, 2 Pferden, und 20 Schweinen mit Gasthof</p>"
 jahr = 1883

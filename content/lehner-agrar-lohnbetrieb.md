@@ -1,7 +1,7 @@
 +++
 content = "<p>Von der Bodenbearbeitung bis zur Ernte  –  flexible Einsatzzeiten und ein leistungsfähiger, moderner Maschinenpark steht Ihnen im Raum Landshut, Straubing, Kelheim, Abensberg und Regensburg zur Verfügung. Die landwirtschaftlichen Leistungen können Sie entweder nur für Teilbereiche oder im ganzen beauftagen - </p><p>Fragen Sie uns einfach wir stehen Ihnen gerne zur Verfügung.</p>"
 date = "2019-01-06T07:51:47+01:00"
-layout="agrar"
+layout = "agrar"
 seo_description = ""
 titel = "Lohnbetrieb"
 titelbild = "/uploads/2019/02/04/top-agrar.png"
@@ -67,7 +67,7 @@ bild = "/uploads/2019/02/04/maehdrescher.png"
 titel = "Mähdrescher"
 untertitel = "Claas Lexion 600 TT"
 [menu.main]
-weight = 8
+weight = 7
 [video]
 titel = "Video"
 video = 315396404

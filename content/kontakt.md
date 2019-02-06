@@ -9,7 +9,7 @@ titelbild = "/uploads/2019/02/06/kontakt_top.png"
 title = "Kontakt"
 untertitel = "Adresse und Öffnungszeiten"
 [menu.main]
-weight = 6
+weight = 5
 [reservierung]
 buttonbeschriftung = "Gleich reservieren"
 buttonlink = "mailto:lehner.poign@freenet.de?subject=Tischreservierung"
