@@ -35,7 +35,7 @@ name = "Gasthof Lehner"
 weight = 1
 [zimmer]
 bild = "/uploads/2019/01/05/zimmer_vorschau.jpg"
-button_beschriftung = "Zu den Zimmern"
+button_beschriftung = "coming soon"
 button_link = ""
 content = "<p>Unsere Zimmer befinden sich momentan in der Umbauphase - in Kürze begrüssen wir Sie in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Wieder kommen lohnt sich!</p>"
 hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
