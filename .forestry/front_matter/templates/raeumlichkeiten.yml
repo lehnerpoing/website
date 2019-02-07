@@ -65,5 +65,8 @@ fields:
 - type: file
   name: raeume_hintergrund
   label: Räume Hintergrund
+- type: text
+  name: seo_description
+  label: seo_description
 pages:
 - content/räumlichkeiten.md
