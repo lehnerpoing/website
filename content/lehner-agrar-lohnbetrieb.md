@@ -2,7 +2,7 @@
 content = "<p>Von der Bodenbearbeitung bis zur Ernte  –  flexible Einsatzzeiten und ein leistungsfähiger, moderner Maschinenpark steht Ihnen im Raum Landshut, Straubing, Kelheim, Abensberg und Regensburg zur Verfügung. Die landwirtschaftlichen Leistungen können Sie entweder nur für Teilbereiche oder im ganzen beauftagen - </p><p>Fragen Sie uns einfach wir stehen Ihnen gerne zur Verfügung.</p>"
 date = "2019-01-06T07:51:47+01:00"
 layout = "agrar"
-seo_description = ""
+seo_description = "Von der Bodenbearbeitung bis zur Ernte – flexible Einsatzzeiten und ein leistungsfähiger, moderner Maschinenpark steht Ihnen im Raum Landshut, Straubing, Kelheim, Abensberg und Regensburg zur Verfügung."
 titel = "Lohnbetrieb"
 titelbild = "/uploads/2019/02/04/top-agrar.png"
 title = "Lehner Agrar - Lohnbetrieb"
