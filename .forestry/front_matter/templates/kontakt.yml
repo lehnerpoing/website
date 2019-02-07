@@ -48,5 +48,8 @@ fields:
   - type: file
     name: hintergrundbild
     label: Hintergrundbild
+- type: text
+  name: seo_description
+  label: seo_description
 pages:
 - content/kontakt.md
