@@ -27,7 +27,7 @@ bild = "/uploads/2019/02/05/nebenzimmer.png"
 name = "Nebenzimmer"
 sitzplatze = "75 Sitzplätze"
 [[raeume]]
-beschreibung = "<p>Typisch Bayrisch sitzen Sie in unserem Gastzimmer, mit Theke und Anmeldung. Für unsere Hotelgäste servieren wir hier das Frühstück.</p>"
+beschreibung = "<p>Typisch bayrisch sitzen Sie in unserem Gastzimmer, mit Theke und Anmeldung. Für unsere Übernachtungsgäste servieren wir hier das Frühstück.</p>"
 bild = "/uploads/2019/02/05/gastzimmer.png"
 name = "Gastzimmer"
 sitzplatze = "45 Sitzplätze"
