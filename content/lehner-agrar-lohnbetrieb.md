@@ -37,7 +37,7 @@ bild = "/uploads/2019/02/04/kreiselegge.png"
 titel = "Kreisselegge"
 untertitel = "Breviglieri Mekfold 220"
 [[fuhrpark.maschinen]]
-beschreibung = "<p>6 Meter Arbeitsbreite, 4 Balkig, Aufgesattelt</p><p>Bis ca 18 cm Arbeitstiefe, Gänsefuß oder schmalschar, Spurführung über RTK-Signal</p>"
+beschreibung = "<p>6 Meter Arbeitsbreite, 4-balkig, aufgesattelt</p><p>Bis ca 18 cm Arbeitstiefe, Gänsefuß oder Schmalschar, Spurführung über RTK-Signal</p>"
 bild = "/uploads/2019/02/04/grubber.png"
 titel = "Grubber"
 untertitel = "Köckerling Allrounder"
