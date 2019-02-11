@@ -17,9 +17,9 @@ bild = "/uploads/2019/02/04/zuckerrrueben.png"
 titel = "Zuckerrüben Aussaat"
 untertitel = "Vicon Unicorn syncho-drive"
 [[fuhrpark.maschinen]]
-beschreibung = "<p>3 Meter Arbeitsbreite, Doppelscheibenschar, Kreisselegge mit Packerwalze, Mulchsaat-</p><p>einrichtung, Isobus gesteuer Spurführung über RTK-Signal, Aussaat mit Breitreifen, Frontkreisselegge oder Frontpacker verfügbar</p>"
+beschreibung = "<p>3 Meter Arbeitsbreite, Doppelscheibenschar, Kreisselegge mit Packerwalze, Mulchsaat-Einrichtung, Isobus gesteuer Spurführung über RTK-Signal, Aussaat mit Breitreifen, Frontkreisselegge oder Frontpacker verfügbar</p>"
 bild = "/uploads/2019/02/04/getreide_raps.png"
-titel = "Getreide-Raps Aussaat"
+titel = "Getreide / Raps Aussaat"
 untertitel = "Lemken Solitair 9 + Lemken Zirkon 9"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>Hydraulischer Antrieb, Wiegeeinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 4000 l Behältervolumen</p>"
