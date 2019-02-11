@@ -27,7 +27,7 @@ bild = "/uploads/2019/02/04/duengerstreuer.png"
 titel = "Düngerstreuer"
 untertitel = "Rauch Axis 50.1 HEMC"
 [[fuhrpark.maschinen]]
-beschreibung = "<p>7 Meter Arbeitsbreite, Dreifachdüsenkörper, Deichsellenkung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 5000 l Behältervolumen</p>"
+beschreibung = "<p>27 Meter Arbeitsbreite, Dreifachdüsenkörper, Deichsellenkung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, 5000 l Behältervolumen</p>"
 bild = "/uploads/2019/02/04/pflanzenschutz.png"
 titel = "Pflanzenschutz-Spritze"
 untertitel = "Lemken Albatros 9/5000"
