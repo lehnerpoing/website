@@ -42,7 +42,7 @@ bild = "/uploads/2019/02/04/grubber.png"
 titel = "Grubber"
 untertitel = "Köckerling Allrounder"
 [[fuhrpark.maschinen]]
-beschreibung = "<p>4 Meter Arbeitsbreite,  3-balkig, bis ca 30 cm Arbeitstiefe, Flügel oder schmalschar,  </p><p>Spurführung über RTK-Signal</p>"
+beschreibung = "<p>4 Meter Arbeitsbreite, 3-balkig, bis ca 30 cm Arbeitstiefe, Flügel- oder Schmalschar</p><p>Spurführung über RTK-Signal</p>"
 bild = "/uploads/2019/02/04/grubber_lemken.png"
 titel = "Grubber"
 untertitel = "Lemken Karat 9"
