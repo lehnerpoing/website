@@ -10,9 +10,7 @@ Inhaber: Brigitte und Franz Lehner
 Talstraße 3  
 93080 Pentling / Poign
 
- 
-
-Telefon: 09405 2408 oder 2217  
+Telefon: 09405 2408  
 Telefax: 09405 5009749  
 E-Mail: lehner.poign@freenet.de
 
@@ -20,7 +18,7 @@ Umsatzsteuer-Identifikationsnummer
 
 gemäß § 27 a Umsatzsteuergesetz:
 
-USt-IdNr: 
+USt-IdNr:
 
 Amtsgericht Kelheim
 
