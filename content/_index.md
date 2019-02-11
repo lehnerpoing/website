@@ -18,7 +18,7 @@ datum = "(21. Oktober 2018)"
 gericht = "Rehrücken mit Knödel und Salat"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
-content = "<p>Gasthof Lehner in Poing</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
+content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
 [bilder]
 button_beschriftung = "Alle Bilder sehen"
 button_link = "räumlichkeiten.md"
