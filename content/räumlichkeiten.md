@@ -35,5 +35,6 @@ sitzplatze = "45 Sitzplätze"
 beschreibung = "<p>Im Untergeschoss bieten wir Ihnen einen weiteren Raum für geschlossene Gesellschaften.</p>"
 bild = "/uploads/2019/02/11/Keller1.jpeg"
 name = "Gastzimmer im Soutterain"
+sitzplatze = 50
 
 +++
