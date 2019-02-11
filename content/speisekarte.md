@@ -11,7 +11,7 @@ content = "<ul><li><p>Bischofshofbier Helles und Weltenburger Barock Dunkel</p><
 titel = "Getränke"
 [[abschnitte]]
 bild = "/uploads/2019/02/06/suppen.png"
-content = "<ul><li><p>Leberspätzlesuppe</p></li><li><p>Griesnockerlsuppe</p></li></ul>"
+content = "<ul><li><p>Leberspätzlesuppe</p></li><li><p>Griesnockerlsuppe</p></li><li><p>Spargelcremesuppe (nach Saison)</p></li><li><p>Kürbiscremesuppe (nach Saison)</p></li><li><p>Pfannkuchensuppe</p></li><li><p>Leberknödelsuppe</p></li></ul>"
 titel = "Suppen"
 [[abschnitte]]
 content = "<ul><li><p>Schweinebraten mit Reiberknödel und Salatteller </p></li><li><p>Gemischter Braten mit Reiberknödel und Salatteller </p></li><li><p>Sauerbraten mit Spätzle und Salatteller </p></li><li><p>Kalbsbraten mit Reiberknödel und Salatteller </p></li><li><p>Cordonbleu mit Pommes frites und Salatteller </p></li><li><p>Schnitzel (Wiener Art) mit Pommes frites und Salatteller </p></li><li><p>Spanferkelrollbraten mit Reiberknödel und Salatteller </p></li><li><p>Schweinemedaillions in Champignonsoße mit Spätzle und Salatteller </p></li><li><p>Zwiebelrostbraten mit Pommes frites und Salatteller </p></li><li><p>Champignonrahmbraten mit Spätzle und Salatteller </p></li><li><p>Champignonrahmschnitzel mit Spätzle und Salatteller</p></li><li><p>Schweinebrüstl mit Reiberknödel, Sauerkraut und Salatteller</p></li><li><p>Schweinerückenschnitzel mit Kroketten, Kräuterbutter, Gemüse und Salatteller </p></li><li><p>Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller </p></li><li><p>Schweineschnitzel in Pfefferrahmsoße mit Pommes frites und Salatteller </p></li><li><p>Putenschnitzel in Champignonsoße mit Spätzle oder gebratenem Reis und Salatteller</p></li></ul>"
