@@ -12,7 +12,7 @@ link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
 titel = "Fuhrpark"
 [[fuhrpark.maschinen]]
-beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK signal, Aussaat mit Breitreifen</p>"
+beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, Aussaat mit Breitreifen</p>"
 bild = "/uploads/2019/02/04/zuckerrrueben.png"
 titel = "Zuckerrüben Aussaat"
 untertitel = "Vicon Unicorn syncho-drive"
