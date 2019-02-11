@@ -7,7 +7,7 @@ seo_description = "Über uns - Wir sind ein kleiner Familienbetrieb mit Gastwirt
 titel = "Des san mia"
 titelbild = "/uploads/2019/02/05/about_top.png"
 title = "Über uns"
-untertitel = "Lehner Poing - Gastfreundschaft aus Leidenschaft"
+untertitel = "Lehner Poign - Gastfreundschaft aus Leidenschaft"
 [bilder]
 bilder = ["/uploads/2019/02/05/nebenzimmer.png", "/uploads/2019/02/05/galerie00010.jpeg", "/uploads/2019/02/05/galerie00014.jpeg", "/uploads/2019/02/05/galerie00020 2.jpeg", "/uploads/2019/02/05/galerie00037.jpeg", "/uploads/2019/02/05/galerie00043.jpeg", "/uploads/2019/02/05/kleinerSaaal.jpeg", "/uploads/2019/02/05/geschichte.png", "/uploads/2019/02/05/galerie_9670.jpg", "/uploads/2019/02/05/galerie00022.jpeg", "/uploads/2019/02/05/galerie00044 2.jpeg", "/uploads/2019/02/05/galerie00020.jpeg"]
 titel = "Bilder & mehr"
