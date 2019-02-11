@@ -12,7 +12,7 @@ weight = 2
 [reservierung]
 buttonbeschriftung = "Gleich reservieren"
 buttonlink = "mailto:lehner.poign@freenet.de?subject=Tischreservierung"
-content = "<p>Tischreservierung ganz bequem online - schreiben Sie uns einfach. </p><p>Aber bitte denken Sie daran, das der Tisch erst verbindlich reserviert ist, wenn Sie eine Bestätigung von uns erhalten.</p><p>Vielleicht war schon jemand schneller ...</p>"
+content = "<p>Tischreservierung ganz bequem online - schreiben Sie uns einfach.</p><p>Aber bitte denken Sie daran, das der Tisch erst verbindlich reserviert ist, wenn Sie eine Bestätigung von uns erhalten.</p><p>Vielleicht war schon jemand schneller ...<br>(Online Reservierungen für Sonntag nur bis Samstag Abend möglich)</p>"
 hintergrundbild = "/uploads/2019/02/05/reservieren.png"
 titel = "Reservierung"
 untertitel = "Ganz bequem online"
