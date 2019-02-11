@@ -4,7 +4,7 @@ date = "2019-01-06T07:49:26+01:00"
 layout = "raeumlichkeiten"
 raeume_hintergrund = "/uploads/2019/02/05/background_räumlichkeiten.png"
 seo_description = "Unsere Räumlichkeiten: Biergarten, Nebenzimmer, Gastzimmer mit Spielplatz und vielen Parkplätzen"
-titelbild = "/uploads/2019/02/05/räumlichkeiten_top.png"
+titelbild = "/uploads/2019/02/11/head_raum.jpg"
 title = "Räumlichkeiten"
 untertitel = "Für jeden anlass das richtige"
 [menu.main]
