@@ -18,7 +18,7 @@ Umsatzsteuer-Identifikationsnummer
 
 gemäß § 27 a Umsatzsteuergesetz:
 
-USt-IdNr:
+USt-IdNr: 244/191/43983
 
 Amtsgericht Kelheim
 
