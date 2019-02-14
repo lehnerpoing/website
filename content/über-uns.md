@@ -23,7 +23,7 @@ content = "<p>Heinrich Schreiner mit der Großmutter Kreszenz das Anwesen.</p>"
 jahr = 1946
 titel = "...übernimmt der Großvater"
 [[historie]]
-content = "<p>Brigitte und Franz und betreiben die Gastwirtschaft</p>"
+content = "<p>Brigitte und Franz betreiben die Gastwirtschaft</p>"
 jahr = 1986
 titel = "Lehner ..."
 [[historie]]
