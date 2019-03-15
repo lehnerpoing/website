@@ -18,7 +18,7 @@ titel = "Reservierung"
 untertitel = "Ganz bequem online"
 [[raeume]]
 beschreibung = "<p>Unser gemütlicher Biergarten mit Blick auf den Spielplatz bietet ca. 45 Gästen Platz, gerne können Sie auch hier einen Tisch reservieren oder für eine geschlossene Gesellschaft komplett buchen. An heißen Tagen beschatten wir mit Sonnensegel und Schirmen und einer kleinen Erholungspause steht nichts mehr im Wege.</p>"
-bild = "/uploads/2019/02/05/biergarten.png"
+bild = "/uploads/2019/03/15/IMG_7010.JPG"
 name = "Biergarten"
 sitzplatze = "45 Sitzplätze"
 [[raeume]]
