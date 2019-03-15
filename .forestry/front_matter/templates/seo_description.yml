@@ -1,7 +1,6 @@
 ---
 label: seo_description
 hide_body: false
-is_partial: true
 fields:
 - type: text
   name: seo_description
