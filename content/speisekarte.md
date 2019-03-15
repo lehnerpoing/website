@@ -7,7 +7,7 @@ title = "Speisekarte"
 [menu.main]
 weight = 4
 [[abschnitte]]
-content = "<ul><li><p>Bischofshofbier Helles und Weltenburger Barock Dunkel</p></li><li><p>weitere alkoholoische und antialkoholische Getränke entnehmen Sie bitte unserer </p></li></ul>"
+content = "<ul><li><p>Bischofshofbier Helles und Weltenburger Barock Dunkel</p></li><li><p>weitere alkoholoische und antialkoholische Getränke entnehmen Sie bitte unserer Karte</p></li></ul>"
 titel = "Getränke"
 [[abschnitte]]
 bild = "/uploads/2019/02/06/suppen.png"
