@@ -14,6 +14,9 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
+datum = "26.03.2019"
+gericht = "Tomate Mozarella"
+[[aktuell.gerichte]]
 datum = "(17. Februar 2019)"
 gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
 [bild_teaser]
