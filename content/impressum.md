@@ -12,7 +12,7 @@ Talstraße 3
 
 Telefon: 09405 2408  
 Telefax: 09405 5009749  
-E-Mail: lehner.poign@freenet.de
+E-Mail: gasthof-lehner@gmx.de
 
 Umsatzsteuer-Identifikationsnummer
 
