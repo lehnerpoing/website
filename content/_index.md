@@ -14,7 +14,7 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "07.04.2019"
+datum = "14.04.2019"
 gericht = "Zwiebelrostbraten mit Pommes frites und Salatteller"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
