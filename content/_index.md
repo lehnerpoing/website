@@ -14,8 +14,11 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "14.04.2019"
-gericht = "Zwiebelrostbraten mit Pommes frites und Salatteller"
+datum = "Ostersonntag, den 21.04.2019"
+gericht = "verschiedene Spargelgerichte"
+[[aktuell.gerichte]]
+datum = "Ostersonntag, den 21.04.2019"
+gericht = "frisches Lammfleisch"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
