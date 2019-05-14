@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Am 28.04.2019 hat unser Gasthof geschlossen. Am 05.05. findet bei uns am Hof die Fahrzeugweihe der Feuerwehr statt."
+datum = "19.05.2019"
+gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
