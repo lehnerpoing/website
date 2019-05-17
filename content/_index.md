@@ -15,7 +15,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = "19.05.2019"
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+gericht = "Spargel mit Salzkartoffel und kleinem panierten Schnitzel, Sauce Hollandaise und Salatteller"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
