@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "16.06.2019"
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
+datum = "14.07.2019"
+gericht = "Zwiebelrostbraten mit Pommes Frites und Salatteller"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
