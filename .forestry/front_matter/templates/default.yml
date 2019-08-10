@@ -16,7 +16,7 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
+- content/zimmer.md
 - content/impressum.md
 - content/haftungsausschluss.md
 - content/datenschutz.md
-- content/zimmer.md

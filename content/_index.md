@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Am Sonntag, den 28.07.2019 ist der letzte Sonntag im Monat also geschlossen."
+datum = "11.08.2019"
+gericht = "Spanferkelrollbraten mit Reiberknödel und Salatteller"
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
