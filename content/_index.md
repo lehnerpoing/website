@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "18.08.2019"
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+datum = "07.09. - 09.09.2019 findet unser Hauskirchweih statt. Wir freuen uns auf Sie!"
+gericht = "Besondere Spezialitäten am kommenden Wochenende für Sie. Samstag Abend gibt es selbstgemachtes Rehragout. Sonntag (ganztägig) und Montag Abend gibt es verschiedene Entengerichte. Außerdem haben wir hausgemachte Küchl für Sie gebacken.  "
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
