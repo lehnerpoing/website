@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "17.11.2019"
-gericht = "Entenbrustfilet mit Reiberknödel und Blaukraut"
+datum = "24.11.2019"
+gericht = "Dieser Sonntag fällt auf den letzten im Monat. Somit ist dieses Wochenende geschlossen. "
 [bild_teaser]
 bild = "/uploads/2019/01/05/slide.png"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
