@@ -64,3 +64,12 @@ fields:
   - type: text
     name: sitzplatze
     label: sitzplatze
+- name: titel_bilder
+  type: text
+  config:
+    required: false
+  label: titel_bilder
+- name: galerie
+  type: image_gallery
+  config: {}
+  label: galerie
