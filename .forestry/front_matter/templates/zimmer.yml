@@ -61,23 +61,32 @@ fields:
   - type: textarea
     name: beschreibung
     label: beschreibung
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - name: preis-zimmer
     type: textarea
     default: ''
     config:
       required: false
-      wysiwyg: false
+      wysiwyg: true
       schema:
-        format: markdown
+        format: html-blocks
     label: preis-zimmre
-- name: titel_bilder
-  type: text
-  config:
-    required: false
-  label: titel_bilder
-- name: galerie
-  type: image_gallery
+- name: bildergalerie_
+  type: field_group
   config: {}
-  label: galerie
+  fields:
+  - name: titel_galerie
+    type: text
+    config:
+      required: false
+    label: titel_Galerie
+  - name: bilder
+    type: image_gallery
+    config: {}
+    label: bilder
+  label: 'Bildergalerie '
 pages:
 - content/zimmer.md
