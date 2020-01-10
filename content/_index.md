@@ -17,7 +17,7 @@ untertitel = "Bayrische Spezialitäten"
 datum = ""
 gericht = ""
 [bild_teaser]
-bild = "/uploads/2019/01/05/slide.png"
+bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
 [bilder]
 button_beschriftung = "Alle Bilder sehen"
