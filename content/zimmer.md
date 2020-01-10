@@ -1,5 +1,5 @@
 +++
-content = "<p>In unseren neu renovierten Zimmern finden Sie Ruhe und erholsamen Schlaf. Mit viel Holz und allergikerfreier Ausstattung sind unsere Zimmer für Geschäftsreisen oder Freizeitaktivitäten perfekt geeignet. Auch Familien finden in unserem Dreibett-Zimmer genügend Platz. Mit dem Lift erreichen Sie unsere Zimmer im ersten und zweiten Obergeschoss.</p>"
+content = "In unseren neu renovierten Zimmern finden Sie Ruhe und erholsamen Schlaf. Mit viel Holz und allergikerfreier Ausstattung sind unsere Zimmer für Geschäftsreisen oder Freizeitaktivitäten perfekt geeignet. Auch Familien finden in unserem Dreibett-Zimmer genügend Platz. Mit dem Lift erreichen Sie unsere Zimmer im ersten und zweiten Obergeschoss."
 date = 2019-01-06T06:50:12Z
 galerie = []
 layout = ""
@@ -10,6 +10,9 @@ titelbild = "/uploads/2020/01/10/head_zimmer.jpg"
 title = "Zimmer"
 untertitel = "Gemütliche zimmer zum wohlfühlen"
 zimmer_hintergrund = "/uploads/2020/01/10/background_pic_zimmer.png"
+[bildergalerie_]
+bilder = []
+titel_galerie = ""
 [reservierung]
 buttonbeschriftung = "gleich reservieren"
 buttonlink = "mailto:gasthof-lehner@gmx.de"
