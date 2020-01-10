@@ -18,9 +18,9 @@ hintergrundbild = "/uploads/2019/02/06/reservieren.png"
 titel = "Reservieren"
 untertitel = "Ganz bequem online"
 [[raeume]]
-Preis = ""
-beschreibung = "Einzelzimmer"
+beschreibung = "kostenloses WLAN\nTV\nseparate Dusche / WC \nKosmetikspiegel / Fön\nHandtücher vorhanden\nSchreibtisch\nGarderobe\nBabybett möglich\nStauraum für Kleidung und \nGepäck\nSitzgelegenheit\nNichtraucher-Zimmer\nHaustiere nicht erlaubt\nausreichend Parkplätze\n\tAufzug \ninklusive Frühstück"
 bild = "/uploads/2020/01/10/EZ1.jpeg"
-name = ""
+name = "Einzelzimmer"
+preis-zimmer = ""
 
 +++
