@@ -31,10 +31,5 @@ beschreibung = "<p>Typisch bayrisch sitzen Sie in unserem Gastzimmer, mit Theke 
 bild = "/uploads/2019/02/05/gastzimmer.png"
 name = "Gastzimmer"
 sitzplatze = "45 Sitzplätze"
-[[raeume]]
-beschreibung = "<p>Im Untergeschoss bieten wir Ihnen einen weiteren Raum für geschlossene Gesellschaften.</p>"
-bild = "/uploads/2019/02/11/Keller1.jpeg"
-name = "Schützenstüberl"
-sitzplatze = "40 Sitzplätze"
 
 +++
