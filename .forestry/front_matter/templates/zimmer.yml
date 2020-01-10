@@ -12,8 +12,8 @@ fields:
   name: layout
   label: layout
 - type: file
-  name: raeume_hintergrund
-  label: raeume_hintergrund
+  name: zimmer_hintergrund
+  label: zimmer_hintergrund
 - type: text
   name: seo_description
   label: seo_description
@@ -62,8 +62,8 @@ fields:
     name: name
     label: name
   - type: text
-    name: sitzplatze
-    label: sitzplatze
+    name: Preis
+    label: Preis
 - name: titel_bilder
   type: text
   config:
