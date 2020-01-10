@@ -38,9 +38,9 @@ weight = 1
 bild = "/uploads/2020/01/10/DZ4.jpeg"
 button_beschriftung = "zu den Zimmern"
 button_link = "zimmer.md"
-content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Wieder kommen lohnt sich!</p>"
+content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Einzelzimmer, Doppelzimmer und Familienzimmer ab 44 € / Zimmer / Nacht inklusive Frühstück - mit Aufzug, Dusche/WC, teilweise Balkon, TV, W-LAN und vielem mehr.</p>"
 hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"
-untertitel = "Einzelzimmer und Doppelzimmer"
+untertitel = "Einzelzimmer, Doppelzimmer, Familienzimmer"
 
 +++
