@@ -1,0 +1,66 @@
+---
+label: zimmer
+hide_body: true
+fields:
+- type: textarea
+  name: content
+  label: content
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: raeume_hintergrund
+  label: raeume_hintergrund
+- type: text
+  name: seo_description
+  label: seo_description
+- type: file
+  name: titelbild
+  label: titelbild
+- type: text
+  name: title
+  label: title
+- type: text
+  name: untertitel
+  label: untertitel
+- type: field_group
+  name: reservierung
+  label: reservierung
+  fields:
+  - type: text
+    name: buttonbeschriftung
+    label: buttonbeschriftung
+  - type: text
+    name: buttonlink
+    label: buttonlink
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: hintergrundbild
+    label: hintergrundbild
+  - type: text
+    name: titel
+    label: titel
+  - type: text
+    name: untertitel
+    label: untertitel
+- type: field_group_list
+  name: raeume
+  label: raeume
+  fields:
+  - type: textarea
+    name: beschreibung
+    label: beschreibung
+  - type: file
+    name: bild
+    label: bild
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: sitzplatze
+    label: sitzplatze
