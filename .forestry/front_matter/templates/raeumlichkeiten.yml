@@ -69,3 +69,4 @@ fields:
   label: seo_description
 pages:
 - content/räumlichkeiten.md
+- content/zimmer.md
