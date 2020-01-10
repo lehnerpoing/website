@@ -73,3 +73,5 @@ fields:
   type: image_gallery
   config: {}
   label: galerie
+pages:
+- content/zimmer.md
