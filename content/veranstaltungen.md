@@ -12,6 +12,6 @@ untertitel = "Ganz individuell und mit viel Liebe zum Detail"
 bilder = ["/uploads/2019/02/06/image00037.jpeg", "/uploads/2019/02/06/veranstaltungen_top.png", "/uploads/2019/02/06/image00016.jpeg", "/uploads/2019/02/06/image00029.jpeg", "/uploads/2019/02/06/image00027.jpeg", "/uploads/2019/02/06/tischdeko_1.jpg", "/uploads/2019/02/06/tischdeko_1 2.jpg", "/uploads/2019/02/06/tischdeko.jpg", "/uploads/2019/02/06/1seite_weihnachtsdeko.jpg", "/uploads/2019/02/06/IMG_1156.jpg"]
 titel = "Bilder & mehr"
 [menu.main]
-weight = 3
+weight = 4
 
 +++

@@ -9,7 +9,7 @@ titelbild = "/uploads/2019/02/06/kontakt_top.png"
 title = "Kontakt"
 untertitel = "Adresse und Öffnungszeiten"
 [menu.main]
-weight = 5
+weight = 6
 [reservierung]
 buttonbeschriftung = "Gleich reservieren"
 buttonlink = "mailto:gasthof-lehner@gmx.de?subject=Tischreservierung"

@@ -5,7 +5,7 @@ seo_description = "Gasthof Lehner Poing Speisekarte - original bayerische Gerich
 titelbild = "/uploads/2019/02/06/speisekarte_top.png"
 title = "Speisekarte"
 [menu.main]
-weight = 4
+weight = 5
 [[abschnitte]]
 content = "<ul><li><p>Bischofshofbier Helles und Weltenburger Barock Dunkel</p></li><li><p>weitere alkoholoische und antialkoholische Getränke entnehmen Sie bitte unserer Karte</p></li></ul>"
 titel = "Getränke"

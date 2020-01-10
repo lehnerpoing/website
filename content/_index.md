@@ -35,9 +35,9 @@ titel = "Spielplatz"
 name = "Gasthof Lehner"
 weight = 1
 [zimmer]
-bild = "/uploads/2019/01/05/zimmer_vorschau.jpg"
-button_beschriftung = "coming soon"
-button_link = ""
+bild = "/uploads/2020/01/10/DZ4.jpeg"
+button_beschriftung = "zu den Zimmern"
+button_link = "zimmer.md"
 content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Wieder kommen lohnt sich!</p>"
 hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"

@@ -67,7 +67,7 @@ bild = "/uploads/2019/02/04/maehdrescher.png"
 titel = "Mähdrescher"
 untertitel = "Claas Lexion 600 TT"
 [menu.main]
-weight = 7
+weight = 8
 [video]
 titel = "Video"
 video = 315396404
