@@ -9,7 +9,7 @@ titel_bilder = ""
 titelbild = "/uploads/2020/01/10/head_zimmer.jpg"
 title = "Zimmer"
 untertitel = "Gemütliche zimmer zum wohlfühlen"
-zimmer_hintergrund = ""
+zimmer_hintergrund = "/uploads/2020/01/10/background_pic_zimmer.png"
 [reservierung]
 buttonbeschriftung = "gleich reservieren"
 buttonlink = "mailto:gasthof-lehner@gmx.de"
