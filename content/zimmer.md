@@ -2,7 +2,7 @@
 content = "<p>In unseren neu renovierten Zimmern finden Sie Ruhe und erholsamen Schlaf. Mit viel Holz und allergikerfreier Ausstattung sind unsere Zimmer für Geschäftsreisen oder Freizeitaktivitäten perfekt geeignet. Auch Familien finden in unserem Dreibett-Zimmer genügend Platz. Mit dem Lift erreichen Sie unsere Zimmer im ersten und zweiten Obergeschoss.</p>"
 date = "2019-01-06T07:50:12+01:00"
 raeume = []
-raeume_hintergrund = ""
+raeume_hintergrund = "/uploads/2020/01/10/background_pic_zimmer.png"
 seo_description = ""
 titelbild = "/uploads/2020/01/10/head_zimmer.jpg"
 title = "Zimmer"
