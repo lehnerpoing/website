@@ -9,7 +9,7 @@ titelbild = "/uploads/2019/02/06/veranstaltungen_top.png"
 title = "Veranstaltungen"
 untertitel = "Ganz individuell und mit viel Liebe zum Detail"
 [bilder]
-bilder = ["/uploads/2019/02/06/image00037.jpeg", "/uploads/2019/02/06/veranstaltungen_top.png", "/uploads/2019/02/06/image00016.jpeg", "/uploads/2019/02/06/image00029.jpeg", "/uploads/2019/02/06/image00027.jpeg", "/uploads/2019/02/06/tischdeko_1.jpg", "/uploads/2019/02/06/tischdeko_1 2.jpg", "/uploads/2019/02/06/tischdeko.jpg", "/uploads/2019/02/06/1seite_weihnachtsdeko.jpg", "/uploads/2019/02/06/IMG_1156.jpg"]
+bilder = ["/uploads/2020/01/10/Essen1.jpeg", "/uploads/2020/01/10/Nebenzimmer2.jpeg", "/uploads/2019/02/06/image00037.jpeg", "/uploads/2019/02/06/veranstaltungen_top.png", "/uploads/2019/02/06/image00016.jpeg", "/uploads/2019/02/06/image00029.jpeg", "/uploads/2019/02/06/image00027.jpeg", "/uploads/2019/02/06/tischdeko.jpg", "/uploads/2019/02/06/1seite_weihnachtsdeko.jpg", "/uploads/2020/01/10/Biergarten2-1.jpeg", "/uploads/2019/02/06/IMG_1156.jpg", "/uploads/2019/02/06/tischdeko_1.jpg"]
 titel = "Bilder & mehr"
 [menu.main]
 weight = 4
