@@ -65,7 +65,7 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - name: preis-zimmer
+  - name: preis
     type: textarea
     default: ''
     config:
@@ -73,7 +73,7 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-    label: preis-zimmre
+    label: Preis Zimmer
 - name: bildergalerie_
   type: field_group
   config: {}
