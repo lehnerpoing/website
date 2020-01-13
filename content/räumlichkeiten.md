@@ -23,7 +23,7 @@ name = "Biergarten"
 sitzplatze = "45 Sitzplätze"
 [[raeume]]
 beschreibung = "<p>Am besten buchen Sie für geschlossene Gesellschaften unser </p><p>Nebenzimmer - hier sind Sie ungestört!</p><p>Für kleine Hochzeiten, Geburtstage, Taufen, Vereinsfeierlichkeiten, Weihnachtsfeier, Betriebsfeiern, Faschingsfeieren sind wir bestens gerüstet.</p>"
-bild = "/uploads/2019/02/05/nebenzimmer.png"
+bild = "/uploads/2020/01/10/Nebenzimmer1.jpeg"
 name = "Nebenzimmer"
 sitzplatze = "75 Sitzplätze"
 [[raeume]]
