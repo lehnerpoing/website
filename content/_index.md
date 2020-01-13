@@ -23,7 +23,7 @@ content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p
 button_beschriftung = "Alle Bilder sehen"
 button_link = "räumlichkeiten.md"
 [[bilder.bilder]]
-bild = "/uploads/2020/01/10/Biergarten3-1.jpeg"
+bild = "/uploads/2020/01/13/biergarten_home.jpg"
 titel = "Biergarten"
 [[bilder.bilder]]
 bild = "/uploads/2020/01/10/Deko-1.jpeg"
