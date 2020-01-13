@@ -15,13 +15,13 @@ titel = "Bilder & mehr"
 name = "Über uns - Galerie"
 weight = 7
 [[historie]]
-content = "<p>stand ein landwirtschaftlicher Betrieb mit 10 Kühen, 2 Pferden, und 20 Schweinen mit Gasthof</p>"
-jahr = 1883
-titel = "Am Anfang ..."
-[[historie]]
 content = "<p>Heinrich Schreiner mit der Großmutter Kreszenz das Anwesen.</p>"
 jahr = 1946
 titel = "...übernimmt der Großvater"
+[[historie]]
+content = ""
+jahr = "1960"
+titel = "übernimmt Heinrich Schreiner"
 [[historie]]
 content = "<p>Brigitte und Franz betreiben die Gastwirtschaft</p>"
 jahr = 1986
