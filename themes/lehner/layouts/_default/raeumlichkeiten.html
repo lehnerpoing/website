@@ -32,6 +32,20 @@
         </div>
       </div> {{end}} </div>
   </div>
+  {{with .Params.bildergalerie_}}
+  <div id="imgs" class="ui container">
+    <h2>{{.titel_galerie}}</h2>
+    <div class="ui three column grid doubling">
+      {{range .bilder}}
+      <div class="column">
+        <div class="galimg"
+          style="background:url({{partial "imgUrl" (dict "img" . "params" "c_scale,f_auto,w_500" )}}) center center no-repeat; background-size:cover;">
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+  {{end}}
   <div id="reserv"
     style="background:url({{partial "imgUrl" (dict "img" .Params.reservierung.hintergrundbild "params" "" )}}) right center no-repeat rgba(112,66,49,0.1); background-size:cover;">
     <div class="ui container">
