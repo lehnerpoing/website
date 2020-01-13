@@ -16,7 +16,7 @@ name = "Über uns - Galerie"
 weight = 7
 [[historie]]
 content = "<p>Heinrich Schreiner mit der Großmutter Kreszenz das Anwesen.</p>"
-jahr = 1946
+jahr = "1960"
 titel = "...übernimmt der Großvater"
 [[historie]]
 content = ""
