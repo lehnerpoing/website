@@ -23,6 +23,10 @@ content = ""
 jahr = "1960"
 titel = "übernimmt Heinrich Schreiner"
 [[historie]]
+content = ""
+jahr = "1990"
+titel = "übernimmt Brigitte"
+[[historie]]
 content = "<p>Brigitte und Franz betreiben die Gastwirtschaft</p>"
 jahr = 1986
 titel = "Lehner ..."
