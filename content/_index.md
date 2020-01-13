@@ -26,7 +26,7 @@ button_link = "räumlichkeiten.md"
 bild = "/uploads/2020/01/13/biergarten_home.jpg"
 titel = "Biergarten"
 [[bilder.bilder]]
-bild = "/uploads/2020/01/10/Deko-1.jpeg"
+bild = "/uploads/2020/01/13/gastzimmer_home.jpg"
 titel = "Gastzimmer"
 [[bilder.bilder]]
 bild = "/uploads/2019/01/05/spielplatz.jpg"
