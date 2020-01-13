@@ -23,10 +23,10 @@ hintergrundbild = "/uploads/2019/02/06/reservieren.png"
 titel = "Reservieren"
 untertitel = "Ganz bequem online"
 [[raeume]]
-beschreibung = "<ul><li><p>kostenloses WLAN</p></li><li><p>TV</p></li><li><p>separate Dusche / WC </p></li><li><p>Kosmetikspiegel / Fön</p></li><li><p>Handtücher vorhanden</p></li><li><p>Schreibtisch</p></li><li><p>Garderobe</p></li><li><p>Babybett möglich</p></li><li><p>Stauraum für Kleidung und </p></li><li><p>Gepäck</p></li><li><p>Sitzgelegenheit</p></li><li><p>Nichtraucher-Zimmer</p></li><li><p>Haustiere nicht erlaubt</p></li><li><p>ausreichend Parkplätze</p></li><li><p>Aufzug </p></li><li><p>inklusive Frühstück</p></li></ul>"
+beschreibung = "<ul><li><p>kostenloses WLAN</p></li><li><p>TV</p></li><li><p>separate Dusche / WC</p></li><li><p>Kosmetikspiegel / Fön</p></li><li><p>Handtücher vorhanden</p></li><li><p>Schreibtisch</p></li><li><p>Garderobe</p></li><li><p>Babybett möglich</p></li><li><p>Stauraum für Kleidung und</p></li><li><p>Gepäck</p></li><li><p>Sitzgelegenheit</p></li><li><p>Nichtraucher-Zimmer</p></li><li><p>ausreichend Parkplätze</p></li><li><p>Aufzug</p></li><li><p>inklusive Frühstück</p></li></ul>"
 bild = "/uploads/2020/01/10/EZ1.jpeg"
 name = "Einzelzimmer"
-preis = "<p>44 € / Nacht / ZIMMER <em>(inkl. Frühstück ab 2 Nächte)</em></p><p>50 € / Nacht / ZIMMER <em>(inkl. Frühstück für 1 Nacht)</em></p><p><em>Kinder bis 12 Jahre ermäßigt</em></p>"
+preis = "<p>44 € / Nacht / Zimmer <em>(inkl. Frühstück ab 2 Nächte)</em></p><p>50 € / Nacht / Zimmer <em>(inkl. Frühstück für 1 Nacht)</em></p><p><em>Kinder bis 12 Jahre ermäßigt</em></p>"
 [[raeume]]
 beschreibung = "<ul><li><p>kostenloses WLAN</p></li><li><p>TV</p></li><li><p>separate Dusche / WC </p></li><li><p>Kosmetikspiegel / Fön</p></li><li><p>Handtücher vorhanden</p></li><li><p>Schreibtisch</p></li><li><p>Garderobe</p></li><li><p>Babybett möglich</p></li><li><p>Stauraum für Kleidung und </p></li><li><p>Gepäck</p></li><li><p>Sitzgelegenheit</p></li><li><p>Nichtraucher-Zimmer</p></li><li><p>getrennte Betten möglich</p></li><li><p>2 DZ mit Ausziehcouch</p></li><li><p>Haustiere nicht erlaubt</p></li><li><p>ausreichend Parkplätze</p></li><li><p>Aufzug </p></li><li><p>inklusive Frühstück</p></li></ul>"
 bild = "/uploads/2020/01/10/DZ4.jpeg"
