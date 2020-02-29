@@ -36,6 +36,6 @@ preis = "<p>75 € / Nacht / Zimmer <em>(inkl. Frühstück ab 2 Nächte)</em></p
 beschreibung = "<ul><li><p>kostenloses WLAN</p></li><li><p>TV</p></li><li><p>separate Dusche / WC</p></li><li><p>Kosmetikspiegel / Fön</p></li><li><p>Handtücher vorhanden</p></li><li><p>Schreibtisch</p></li><li><p>Garderobe</p></li><li><p>Babybett möglich</p></li><li><p>Stauraum für Kleidung und</p></li><li><p>Gepäck</p></li><li><p>Sitzgelegenheit</p></li><li><p>Nichtraucher-Zimmer</p></li><li><p>ausreichend Parkplätze</p></li><li><p>Aufzug</p></li><li><p>inklusive Frühstück</p></li></ul>"
 bild = "/uploads/2020/02/29/_MG_9930.JPG"
 name = "familenzimmer / dreibettzimmer"
-preis = "<p>93 € / Nacht / Zimmer <em>(inkl. Frühstück ab 2 Nächte)</em></p><p>105 € / Nacht / Zimmer <em>(inkl. Frühstück für 1 Nacht)</em></p><p><em>Kinder bis 12 Jahre ermäßigt, 3. Person auf der Ausziehcouch zzgl 15€.</em></p>"
+preis = "<p>93 € / Nacht / Zimmer <em>(inkl. Frühstück ab 2 Nächte)</em></p><p>105 € / Nacht / Zimmer <em>(inkl. Frühstück für 1 Nacht)</em></p><p><em>Kinder bis 12 Jahre ermäßigt, 3. Person auf der Ausziehcouch zzgl. 15 €.</em></p>"
 
 +++
