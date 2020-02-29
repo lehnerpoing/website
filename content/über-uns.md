@@ -27,7 +27,7 @@ content = "<p>der Gastwirtschaft mit Fremdenzimmern</p>"
 jahr = 1994
 titel = "Kompletter Neubau"
 [[historie]]
-content = "<p>alle unsere Gästezimmer werden komplett renoviert</p>"
+content = "<p>alle unsere Gästezimmer wurden komplett renoviert</p>"
 jahr = "2019"
 titel = "Zimmerrenovierung"
 
