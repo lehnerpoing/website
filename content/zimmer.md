@@ -8,7 +8,7 @@ seo_description = ""
 titel_bilder = ""
 titelbild = "/uploads/2020/01/10/head_zimmer.jpg"
 title = "Zimmer"
-untertitel = "Gemütliche zimmer zum wohlfühlen"
+untertitel = "Gemütliche Zimmer zum Wohlfühlen"
 zimmer_hintergrund = "/uploads/2020/01/10/background_pic_zimmer.png"
 [bildergalerie_]
 bilder = ["/uploads/2020/01/10/EZ3.jpeg", "/uploads/2020/01/10/EZ2.jpeg", "/uploads/2020/01/10/EZ1-1.jpeg", "/uploads/2020/01/10/DZ3.jpeg", "/uploads/2020/01/10/DZ2.jpeg", "/uploads/2020/01/10/Bad2.jpeg", "/uploads/2020/01/10/Bad1.jpeg"]
