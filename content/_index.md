@@ -14,7 +14,7 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "01.03.2020"
+datum = "08.03.2020"
 gericht = "Sauerbraten mit Spätzle und Salatteller"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
