@@ -9,34 +9,13 @@ button_beschriftung_1 = "Tisch reservieren"
 button_beschriftung_2 = "Zur Speisekarte"
 button_link_1 = "mailto:gasthof-lehner@gmx.de?subject=Reservierung"
 button_link_2 = "speisekarte.md"
-content = "<p>Sonntags bieten wir Ihnen hier besondere Spezialitäten - Hausgemacht und nach Großmutters Rezept, bitte denken Sie daran zu reservieren!</p><p></p><p>Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen. Bitte vorbestellen.</p>"
+content = "<p>Sonntags bieten wir Ihnen hier besondere Spezialitäten - Hausgemacht und nach Großmutters Rezept, bitte denken Sie daran zu reservieren!</p>"
 hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = "29.04.2020"
 gericht = "Auch bei uns können Sie ab Sonntag 03.05.2020 Speisen abholen. Bitte vorbestellen!"
-[[aktuell.gerichte]]
-datum = "7,80 €"
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "8,50 €"
-gericht = "Champignonrahmschnitzel mit hausgemachten Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "8,50 €"
-gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Rehbraten in Wildrahmsoße mit hausgemachten Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "8,40 €"
-gericht = "Schnitzel (Wiener Art) mit Pommes Fries und Salatteller"
-[[aktuell.gerichte]]
-datum = "8,50 €"
-gericht = "Sauerbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "7,80 €"
-gericht = "Schweinebraten mit Reiberknödel und Salatteller"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
